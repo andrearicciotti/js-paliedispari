@@ -20,7 +20,7 @@ Creare una funzione per capire se la parola inserita è palindroma (non usare fu
 **2. Logica del programma**
 
 - Creo una funzione
-- Stampo le lettere della parola una alla volta in ordino normale e invertito e le confronto.
+- Stampo le lettere della parola una alla volta in ordine normale e invertito e le confronto.
 - Se il risultato di tutti i controlli sara' true anche il risultato finale sara' true.
 - return del risultato finale
 
