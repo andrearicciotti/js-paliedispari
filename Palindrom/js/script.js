@@ -5,7 +5,9 @@ const resultElem = document.createElement("h2");
 
 // console.log(userWord.length);
 let result
-palindormTest(userWord);
+
+palindromTest(userWord);
+
 
 // console.log(result);
 if (result) {
@@ -19,10 +21,10 @@ pageElem.append(resultElem);
 // FUNCTIONS
 /**
  * Description
- * @param {any} userWord
- * @returns {any} 
+ * @param {string} userWord
+ * @returns {string} 
  */
-function palindormTest(userWord) {
+function palindromTest(userWord) {
 
     let j = userWord.length;
     result = true;

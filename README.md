@@ -47,16 +47,16 @@ Dichiariamo chi ha vinto.
 
 **1. Raccolta dati**
 
-- Utente inserisce numero. 
+- Utente inserisce numero da 1 a 5. 
 - Utente inserisce odd or even.
-- COM genera numero casuale da 1 a 5.
+- COM genera numero casuale da 1 a 5 (funzione).
 
 **2. Logica del programma**
 
 - Creo una funzione.
 - La funzione somma i numeri ottenuti.
-- La funzione stabilisce se la somma e' odd oppure e' even.
-- La funzione confronta la scelta del giocatore con il valore odd o even della somma
+- La funzione stabilisce se la somma e' pari oppure e' dispari.
+- La funzione confronta la scelta del giocatore con il valore pari o dispari della somma.
 - return del risultato
 
 
